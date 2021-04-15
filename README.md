@@ -1,2 +1,7 @@
 # capture-page
-I created a capture page to capture certain information. I used HTML and CSS.
+
+<p><strong>-This project was made for people who need to capture information from people interested in their product, to obtain a list of contacts for sending mass e-mail. In this way, it will be possible to capture data such as: name, e-mail, telephone, address and etc.</strong</p><br>
+<p><strong>-The following technologies were used in this application:<br>
+-HTML.<br>
+-CSS.</strong><br>
+ 
